@@ -2,7 +2,7 @@
 
 **Projet réalisé dans le cadre de notre formation à l'école 42 - Langage C librairie standard**\
 **Objectifs: Algorithmie basique - Entrées/sorties**\
-**Compétences: Rigor - Unix - Group & interpersonal - Algorithms & AI **\
+**Compétences: Rigor - Unix - Group & interpersonal - Algorithms & AI**\
 
 **Credit to: [bvigne](https://github.com/bvigne) - [nristorc](https://github.com/nristorc)**
 
